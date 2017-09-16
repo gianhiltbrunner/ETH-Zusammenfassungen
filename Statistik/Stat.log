@@ -1,0 +1,2453 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.7.18)  2 AUG 2017 09:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Stat.tex
+(./Stat.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+ (/usr/share/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+ (/usr/share/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+ (/usr/share/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+ (/usr/share/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+)) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2017/05/19 3.10 The Babel package
+ (/usr/share/texmf-dist/tex/generic/babel-german/german.ldf
+Language: german 2016/11/02 v2.9 German support for babel (traditional orthography)
+ (/usr/share/texmf-dist/tex/generic/babel-german/germanb.ldf
+Language: germanb 2016/11/02 v2.9 German support for babel (traditional orthography)
+ (/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+Package babel Info: Making " an active character on input line 139.
+))) (/usr/share/texmf-dist/tex/generic/chemfig/chemfig.sty (/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen104
+\pgfutil@tempdimb=\dimen105
+ (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box26
+
+(/usr/share/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+ (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+ (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+ (/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+) (/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+ (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+ (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen108
+\pgf@y=\dimen109
+\pgf@xa=\dimen110
+\pgf@ya=\dimen111
+\pgf@xb=\dimen112
+\pgf@yb=\dimen113
+\pgf@xc=\dimen114
+\pgf@yc=\dimen115
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count89
+\c@pgf@countb=\count90
+\c@pgf@countc=\count91
+\c@pgf@countd=\count92
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+ (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+ (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+))) (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count93
+\pgfsyssoftpath@bigbuffer@items=\count94
+) (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+ (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen116
+\pgfmath@count=\count95
+\pgfmath@box=\box27
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count96
+)) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen117
+\pgf@picmaxx=\dimen118
+\pgf@picminy=\dimen119
+\pgf@picmaxy=\dimen120
+\pgf@pathminx=\dimen121
+\pgf@pathmaxx=\dimen122
+\pgf@pathminy=\dimen123
+\pgf@pathmaxy=\dimen124
+\pgf@xx=\dimen125
+\pgf@xy=\dimen126
+\pgf@yx=\dimen127
+\pgf@yy=\dimen128
+\pgf@zx=\dimen129
+\pgf@zy=\dimen130
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen131
+\pgf@path@lasty=\dimen132
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen133
+\pgf@shorten@start@additional=\dimen134
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box28
+\pgf@hbox=\box29
+\pgf@layerbox@main=\box30
+\pgf@picture@serial@count=\count97
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen135
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen136
+\pgf@pt@y=\dimen137
+\pgf@pt@temp=\dimen138
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen139
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen140
+\pgf@sys@shading@range@num=\count98
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+ (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box31
+)) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+))) (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box32
+) (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen141
+\pgf@nodesepend=\dimen142
+) (/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+ (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen143
+\pgffor@skip=\dimen144
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+)) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+ (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count99
+\pgfplotmarksize=\dimen145
+)
+\tikz@lastx=\dimen146
+\tikz@lasty=\dimen147
+\tikz@lastxsaved=\dimen148
+\tikz@lastysaved=\dimen149
+\tikzleveldistance=\dimen150
+\tikzsiblingdistance=\dimen151
+\tikz@figbox=\box33
+\tikz@figbox@bg=\box34
+\tikz@tempbox=\box35
+\tikz@tempbox@bg=\box36
+\tikztreelevel=\count100
+\tikznumberofchildren=\count101
+\tikznumberofcurrentchild=\count102
+\tikz@fig@count=\count103
+ (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count104
+\pgfmatrixcurrentcolumn=\count105
+\pgf@matrix@numberofcolumns=\count106
+)
+\tikz@expandcount=\count107
+ (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+))) (/usr/share/texmf-dist/tex/generic/chemfig/chemfig.tex
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2015/05/13 v3.0.1a (rcs-revision 1.13)
+\pgfarrowinset=\dimen152
+\pgfarrowlength=\dimen153
+\pgfarrowwidth=\dimen154
+\pgfarrowlinewidth=\dimen155
+)
+\CF@cnt@atomingroup=\count108
+\CF@cnt@groupnumber=\count109
+\CF@cnt@atomnumber=\count110
+\CF@cnt@cycle=\count111
+\CF@dim=\dimen156
+\CF@lewis@box=\box37
+\CF@box@boxa=\box38
+\CF@box@boxb=\box39
+\CF@stuff@box=\box40
+\CF@unused=\write4
+\CF@compound@cnt=\count112
+\CF@arrow@size=\dimen157
+)
+Package: chemfig 2017/05/20 v1.2e Draw molecule with an easy syntax
+) (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+ (/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+ (/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+) (/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+) (/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen158
+\Hy@linkcounter=\count113
+\Hy@pagecounter=\count114
+ (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count115
+ (/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count116
+ (/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen159
+\Fld@menulength=\count117
+\Field@Width=\dimen160
+\Fld@charsize=\dimen161
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count118
+\c@Item=\count119
+\c@Hfootnote=\count120
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count121
+\c@bookmark@seq@number=\count122
+ (/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)
+\Hy@SectionHShift=\skip43
+) (/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count123
+\mult@box=\box41
+\multicol@leftmargin=\dimen162
+\c@unbalance=\count124
+\c@collectmore=\count125
+\doublecol@number=\count126
+\multicoltolerance=\count127
+\multicolpretolerance=\count128
+\full@width=\dimen163
+\page@free=\dimen164
+\premulticols=\dimen165
+\postmulticols=\dimen166
+\multicolsep=\skip44
+\multicolbaselineskip=\skip45
+\partial@page=\box42
+\last@line=\box43
+\maxbalancingoverflow=\dimen167
+\mult@rightbox=\box44
+\mult@grightbox=\box45
+\mult@gfirstbox=\box46
+\mult@firstbox=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\c@columnbadness=\count129
+\c@finalcolumnbadness=\count130
+\last@try=\dimen168
+\multicolovershoot=\dimen169
+\multicolundershoot=\dimen170
+\mult@nat@firstbox=\box65
+\colbreak@box=\box66
+\mc@col@check@num=\count131
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks29
+\ex@=\dimen171
+)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen172
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count132
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count133
+\leftroot@=\count134
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count135
+\DOTSCASE@=\count136
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box67
+\strutbox@=\box68
+\big@size=\dimen173
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count137
+\c@MaxMatrixCols=\count138
+\dotsspace@=\muskip11
+\c@parentequation=\count139
+\dspbrk@lvl=\count140
+\tag@help=\toks30
+\row@=\count141
+\column@=\count142
+\maxfields@=\count143
+\andhelp@=\toks31
+\eqnshift@=\dimen174
+\alignsep@=\dimen175
+\tagshift@=\dimen176
+\tagwidth@=\dimen177
+\totwidth@=\dimen178
+\lineht@=\dimen179
+\@envbody=\toks32
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks33
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+) (/usr/share/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+ Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix <2008/02/07> (tvz)
+\FV@CodeLineNo=\count144
+\FV@InFile=\read2
+\FV@TabBox=\box69
+\c@FancyVerbLine=\count145
+\FV@StepNumber=\count146
+\FV@OutFile=\write5
+) (/usr/share/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2001/04/09 non-zero parskip adjustments
+) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count147
+\Gm@cntv=\count148
+\c@Gm@tempcnt=\count149
+\Gm@bindingoffset=\dimen180
+\Gm@wd@mp=\dimen181
+\Gm@odd@mp=\dimen182
+\Gm@even@mp=\dimen183
+\Gm@layoutwidth=\dimen184
+\Gm@layoutheight=\dimen185
+\Gm@layouthoffset=\dimen186
+\Gm@layoutvoffset=\dimen187
+\Gm@dimlist=\toks34
+) (./Stat.aux)
+\openout1 = `Stat.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+ ABD: EveryShipout initializing macros (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count150
+\scratchdimen=\dimen188
+\scratchbox=\box70
+\nofMPsegments=\count151
+\nofMParguments=\count152
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count153
+\MPscratchDim=\dimen189
+\MPnumerator=\count154
+\makeMPintoPDFobject=\count155
+\everyMPtoPDFconversion=\toks36
+) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\AtBeginShipoutBox=\box71
+Package hyperref Info: Link coloring OFF on input line 22.
+ (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+ (/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count156
+)
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
+ (./Stat.out) (./Stat.out)
+\@outlinefile=\write6
+\openout6 = `Stat.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(28.45274pt, 738.0645pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 557.38951pt, 28.45274pt)
+* \paperwidth=794.96999pt
+* \paperheight=614.295pt
+* \textwidth=738.0645pt
+* \textheight=557.38951pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-80.81725pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=15.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 35.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 35.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 35.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 36.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 36.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 36.
+
+Underfull \hbox (badness 6078) in paragraph at lines 49--52
+[]\OT1/cmr/m/n/10 Beispiel: 2-maliges Wer-fen ei-ner Mun-ze: $
+ =
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 53.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 53.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 62.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 62.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 62.
+./Stat.tex:64: Missing $ inserted.
+<inserted text> 
+                $
+l.64 ...keiten sind immer nicht-negativ: P(A) \geq
+                                                   0
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Stat.tex:65: Missing $ inserted.
+<inserted text> 
+                $
+l.65 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+./Stat.tex:66: Package inputenc Error: Unicode char Ω (U+2126)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66       2. Das Ereignis Ω
+                               hat Wahrscheinlichkeit eins: P(\Omega) = 1
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Stat.tex:66: Missing $ inserted.
+<inserted text> 
+                $
+l.66 ... Ω hat Wahrscheinlichkeit eins: P(\Omega
+                                                  ) = 1
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Stat.tex:67: Missing $ inserted.
+<inserted text> 
+                $
+l.67 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+./Stat.tex:68: Package inputenc Error: Unicode char ∪ (U+222A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68       3. P(A∪
+                    B) = P(A) + P(B) falls A∩B = \O , d.h. für alle Ereig...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Stat.tex:68: Package inputenc Error: Unicode char ∩ (U+2229)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68       3. P(A∪B) = P(A) + P(B) falls A∩
+                                               B = \O , d.h. für alle Ereig...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Stat.tex:68: Package inputenc Error: Unicode char ¨ (U+A8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 ...O , d.h. für alle Ereignisse, die sich ¨
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 76.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 76.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 76.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 81.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 81.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 81.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 85.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 85.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 85.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 90.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 90.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 90.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 93.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 93.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 93.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 97.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 97.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 97.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 100.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 100.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 100.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 104.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 104.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 104.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 108.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 108.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 108.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 113.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 113.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 113.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 127.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 127.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 127.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 135.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 135.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 135.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 135.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 135.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 135.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 143.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 143.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 143.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 149.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 149.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 149.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 158.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 158.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 158.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 159.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 159.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 159.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 159.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\epsilon' on input line 159.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 159.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 166.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 166.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 166.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 172.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 172.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 172.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 182.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 182.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 182.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 184.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 184.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 184.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 192.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 192.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 192.
+
+./Stat.tex:196: Package inputenc Error: Unicode char ∼ (U+223C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.196 ...lt X ist hypergeometrisch verteilt: X ∼
+                                                   Hyper(N, n, m).
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Stat.tex:198: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.198       \\$
+               m$: Anzahl der Erfolge in der Population
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 203.
+
+
+./Stat.tex:207: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.207       \\B
+               inominalkoeffizient: ${m \choose k}$
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 212.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 212.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 212.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 223.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 223.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 223.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 226.
+(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 226.
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 232.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 232.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 232.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 232.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 232.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 232.
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 234--238
+
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 242.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 242.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 242.
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--247
+\OT1/cmr/m/n/10 Die Normal-Verteilung (manch-mal auch Gauss-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--247
+\OT1/cmr/m/n/10 Beispiel: Zuf[]allige Messfeh-ler; Sum-me von un-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--253
+\OT1/cmr/m/n/10 tei-lung Stan-dard-nor-mal-ver-tei-lung ge-nannt. Die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--253
+\OT1/cmr/m/n/10 Dich-te-funk-ti-on der Stan-dard-nor-mal-ver-tei-lung ist
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 259.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 259.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 259.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 260.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 260.
+
+./Stat.tex:263: Package inputenc Error: Unicode char ¨ (U+A8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.263 ... diese 1. Grundfrage heisst (Punkt-)Sch¨
+                                                  atzung.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 273.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 273.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 273.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 274.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 274.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 274.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 279.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 279.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 279.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 286.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 286.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 286.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 307.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 307.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 307.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 307.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 307.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 307.
+[3]
+
+./Stat.tex:308: Package inputenc Error: Unicode char π (U+3C0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.308 ...] \cup [c_o, n]$ falls $H_A : \pi \neq π
+                                                   _0$\bigbreak
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Stat.tex:311: Double subscript.
+l.311 ...echnet, dass $$P_{H_0}(X \in K) = P_\pi _
+                                                  0 (X \in K) \overset{\appr...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 324.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 324.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 324.
+./Stat.tex:335: Missing $ inserted.
+<inserted text> 
+                $
+l.335         stat. Test $H_0$ & richtig 1-\alpha
+                                                  & Fehler 2.Art \beta \\ \h...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Stat.tex:335: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
+l.335 ...    stat. Test $H_0$ & richtig 1-\alpha &
+                                                   Fehler 2.Art \beta \\ \hline
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Stat.tex:335: Missing $ inserted.
+<inserted text> 
+                $
+l.335 ...    stat. Test $H_0$ & richtig 1-\alpha &
+                                                   Fehler 2.Art \beta \\ \hline
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Stat.tex:335: Missing } inserted.
+<inserted text> 
+                }
+l.335 ...    stat. Test $H_0$ & richtig 1-\alpha &
+                                                   Fehler 2.Art \beta \\ \hline
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Stat.tex:335: Missing $ inserted.
+<inserted text> 
+                $
+l.335 ...$ & richtig 1-\alpha & Fehler 2.Art \beta
+                                                   \\ \hline
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Stat.tex:335: Extra }, or forgotten $.
+<template> \unskip }
+                    \hskip \tabcolsep \endtemplate 
+l.335 ...g 1-\alpha & Fehler 2.Art \beta \\ \hline
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Stat.tex:335: Missing $ inserted.
+<inserted text> 
+                $
+l.335 ...g 1-\alpha & Fehler 2.Art \beta \\ \hline
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Stat.tex:335: Missing } inserted.
+<inserted text> 
+                }
+l.335 ...g 1-\alpha & Fehler 2.Art \beta \\ \hline
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Stat.tex:336: Missing $ inserted.
+<inserted text> 
+                $
+l.336 ...  stat. Test $H_1$ & Fehler 1. Art \alpha
+                                                   & richtig (Macht) 1-\beta \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Stat.tex:336: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
+l.336 ...stat. Test $H_1$ & Fehler 1. Art \alpha &
+                                                   richtig (Macht) 1-\beta \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Stat.tex:336: Missing $ inserted.
+<inserted text> 
+                $
+l.336 ...stat. Test $H_1$ & Fehler 1. Art \alpha &
+                                                   richtig (Macht) 1-\beta \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Stat.tex:336: Missing } inserted.
+<inserted text> 
+                }
+l.336 ...stat. Test $H_1$ & Fehler 1. Art \alpha &
+                                                   richtig (Macht) 1-\beta \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Stat.tex:336: Missing $ inserted.
+<inserted text> 
+                $
+l.336 ...r 1. Art \alpha & richtig (Macht) 1-\beta
+                                                   \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Stat.tex:337: Extra }, or forgotten $.
+<template> \unskip }
+                    \hskip \tabcolsep \endtemplate 
+l.337         \hline
+                    
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./Stat.tex:337: Missing $ inserted.
+<inserted text> 
+                $
+l.337         \hline
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Stat.tex:337: Missing } inserted.
+<inserted text> 
+                }
+l.337         \hline
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (4.89546pt too wide) in paragraph at lines 332--339
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--343
+
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 345.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 345.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 345.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 353.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 353.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 353.
+./Stat.tex:357: Missing $ inserted.
+<inserted text> 
+                $
+l.357 ...pf zeigen, wenn man 10 mal wirft. (X \sim
+                                                   Bin(10, $\pi$))
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Stat.tex:357: Missing $ inserted.
+<inserted text> 
+                $
+l.357 ...nn man 10 mal wirft. (X \sim Bin(10, $\pi
+                                                  $))
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--366
+[]\OT1/cmr/m/n/10 Verwerfungsbereich: Den zwei-sei-ti-gen Ver-
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 370.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 370.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 370.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 381.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 381.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 381.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 384.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 384.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 384.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 384.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 384.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--392
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--392
+
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 392.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 392.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 392.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 392.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 392.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 392.
+[4]
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 400.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 400.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 400.
+
+
+./Stat.tex:409: LaTeX Error: Environment figure1 undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.409     \begin{figure1}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Stat.tex:410: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.410       \caption
+                    {Konfidenzintervalle zum Niveau 95 $\%$ für 100 Stichpr...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<img/coni.png, id=376, 1003.75pt x 2007.5pt>
+File: img/coni.png Graphic file (type png)
+ <use img/coni.png>
+Package pdftex.def Info: img/coni.png used on input line 414.
+(pdftex.def)             Requested size: 120.4448pt x 240.8896pt.
+
+
+./Stat.tex:415: LaTeX Error: \begin{multicols} on input line 24 ended by \end{figure1}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.415     \end{figure1}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (1.53477pt too wide) in paragraph at lines 410--416
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--416
+
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 417.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 417.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 417.
+
+Underfull \hbox (badness 7963) in paragraph at lines 422--422
+[]\OT1/cmr/bx/n/14.4 Modelle und Sta-ti-stik f[]ur
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 422.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 422.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 422.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 424.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 424.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 424.
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--434
+ []\OT1/cmr/bx/n/10 Mittel von un-abh[]angigen, gleich-ver-teil-ten
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--434
+\OT1/cmr/m/n/10 abh[]angigen, gleich-ver-teil-ten Mes-sun-gen ist zu-
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 435.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 435.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 435.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 447.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 447.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 447.
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
+
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 455.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 455.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 455.
+
+Overfull \hbox (5.17831pt too wide) detected at line 459
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--464
+
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 465.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 465.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 465.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 468.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 468.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 468.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 468.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 468.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 468.
+[5 <./img/coni.png>]
+
+Package amsmath Warning: Foreign command \over;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 470.
+
+
+Overfull \hbox (13.16039pt too wide) detected at line 470
+\OML/cmm/m/it/10 ^^Z[] \OT1/cmr/m/n/10 = [](\OML/cmm/m/it/10 X; Y\OT1/cmr/m/n/10 ) = [] = []
+ []
+
+<img/korr.png, id=383, 853.1875pt x 395.4775pt>
+File: img/korr.png Graphic file (type png)
+ <use img/korr.png>
+Package pdftex.def Info: img/korr.png used on input line 474.
+(pdftex.def)             Requested size: 238.89087pt x 110.73294pt.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 476.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 476.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 476.
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--480
+\OT1/cmr/m/n/10 Ist $\OML/cmm/m/it/10 X$ \OT1/cmr/m/n/10 ei-ne Zu-falls-va-ria-ble mit Er-war-tungs-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--480
+\OT1/cmr/m/n/10 wert $[] [](\OML/cmm/m/it/10 X\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 ^^V$ \OT1/cmr/m/n/10 und Va-ri-anz
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 482.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 482.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 482.
+<img/box.png, id=385, 501.875pt x 547.04375pt>
+File: img/box.png Graphic file (type png)
+ <use img/box.png>
+Package pdftex.def Info: img/box.png used on input line 484.
+(pdftex.def)             Requested size: 240.89725pt x 262.578pt.
+
+Overfull \hbox (1.54242pt too wide) in paragraph at lines 484--485
+[] 
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 486.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 486.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 486.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 495.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 495.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 495.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 495.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ifnextchar' on input line 495.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 495.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 499.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 499.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 499.
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
+
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 501.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 501.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 501.
+./Stat.tex:517: Undefined control sequence.
+<recently read> \Epsilon 
+                         
+l.517       $\Epsilon
+                     (X) = \frac{a+b}{2}$\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 520.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 520.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 520.
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--525
+[]\OT1/cmr/bx/n/12 Approximation der t-Verteilung
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 525.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 525.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 525.
+
+./Stat.tex:530: Package inputenc Error: Unicode char ≈ (U+2248)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.530       (1 - 0.05/2) = \Phi-1(0.975) ≈
+                                             2$. D.h.,
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 533.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 533.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 533.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 534.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 534.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 534.
+<img/z-verwerf.png, id=386, 509.905pt x 108.405pt>
+File: img/z-verwerf.png Graphic file (type png)
+ <use img/z-verwerf.png>
+Package pdftex.def Info: img/z-verwerf.png used on input line 535.
+(pdftex.def)             Requested size: 203.95837pt x 43.36122pt.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 541.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 541.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 541.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 544.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 544.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 544.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 544.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 544.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 544.
+ [6 <./img/korr.png> <./img/box.png>]
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 544.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 544.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 544.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 548.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 548.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 548.
+
+./Stat.tex:554: Missing $ inserted.
+<inserted text> 
+                $
+l.554 ...bsubsection{Vertrauensintervall für \mu}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Stat.tex:554: Missing $ inserted.
+<inserted text> 
+                $
+l.554 ...bsubsection{Vertrauensintervall für \mu}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 554.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 554.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 554.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mu' on input line 554.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 563.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 563.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 563.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 568.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 568.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 568.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 574.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 574.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 574.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 582.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 582.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 582.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 585.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 585.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 585.
+<img/stich.png, id=395, 927.465pt x 365.365pt>
+File: img/stich.png Graphic file (type png)
+ <use img/stich.png>
+Package pdftex.def Info: img/stich.png used on input line 587.
+(pdftex.def)             Requested size: 241.13521pt x 94.99265pt.
+
+Overfull \hbox (1.78038pt too wide) in paragraph at lines 587--588
+[] 
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 589.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 589.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 589.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 590.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 590.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 590.
+
+./Stat.tex:596: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.596       \\B
+               eispiel:
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 605.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 605.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 605.
+
+./Stat.tex:607: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.607       \\-
+               Beispiel:
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 615.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 615.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 615.
+./Stat.tex:621: Missing } inserted.
+<inserted text> 
+                }
+l.621     \end{gather}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Stat.tex:621: Missing { inserted.
+<inserted text> 
+                {
+l.621     \end{gather}
+                      
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+./Stat.tex:621: Missing } inserted.
+<inserted text> 
+                }
+l.621     \end{gather}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Stat.tex:621: Missing { inserted.
+<inserted text> 
+                {
+l.621     \end{gather}
+                      
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+./Stat.tex:621: Missing } inserted.
+<inserted text> 
+                }
+l.621     \end{gather}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Stat.tex:621: Missing { inserted.
+<inserted text> 
+                {
+l.621     \end{gather}
+                      
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+./Stat.tex:621: Missing } inserted.
+<inserted text> 
+                }
+l.621     \end{gather}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./Stat.tex:621: Missing { inserted.
+<inserted text> 
+                {
+l.621     \end{gather}
+                      
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+
+Overfull \hbox (2.49962pt too wide) in paragraph at lines 621--621
+[] 
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 622.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 622.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 622.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 625.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 625.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 625.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 625.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 625.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 625.
+[7 <./img/z-verwerf.png> <./img/stich.png>]
+
+./Stat.tex:633: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.633     \\D
+             ie Nullhypothese des Vorzeichen-Tests lautet $H_0 : \mu = \mu_0...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 636.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 636.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 636.
+
+./Stat.tex:639: Package inputenc Error: Unicode char µ (U+B5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.639 ... stetig und symmetrisch ist bezuglich $µ
+                                                   =  E(X_i)$
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 641.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 641.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 641.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 642.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 642.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 642.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 643.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 643.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 643.
+
+./Stat.tex:647: Package inputenc Error: Unicode char ¨ (U+A8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.647 ...ervall ist immer breiter als das 95\%- ¨
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--649
+\OT1/cmr/m/n/10 -Das 95%-Vertrauensintervall be-rech-net sich als
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 649.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 649.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 649.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 649.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 649.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 651.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 651.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 651.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 653.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 653.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 653.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 653.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 653.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 658.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 658.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 658.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 664.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 664.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 664.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 668.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 668.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 668.
+<img/qqplots.jpg, id=401, 803.0pt x 639.38875pt>
+File: img/qqplots.jpg Graphic file (type jpg)
+ <use img/qqplots.jpg>
+Package pdftex.def Info: img/qqplots.jpg used on input line 670.
+(pdftex.def)             Requested size: 224.83847pt x 179.02762pt.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 672.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 672.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 672.
+ <img/lrschief.png, id=402, 1015.795pt x 390.45876pt>
+File: img/lrschief.png Graphic file (type png)
+ <use img/lrschief.png>
+Package pdftex.def Info: img/lrschief.png used on input line 674.
+(pdftex.def)             Requested size: 203.1554pt x 78.09036pt.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 676.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 676.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 676.
+
+
+./Stat.tex:680: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.680   \\$
+           B$ = Frau hat Brustkrebs
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Stat.tex:685: Package inputenc Error: Unicode char ∗ (U+2217)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.685 ...P(Neg|Bc))P(Bc)+P(Pos|B)P(B) = (1-0.8)∗
+                                                  0.98+ 0.9∗0.02 = 0.214$
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Stat.tex:685: Package inputenc Error: Unicode char ∗ (U+2217)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.685 ...Bc)+P(Pos|B)P(B) = (1-0.8)∗0.98+ 0.9∗
+                                                  0.02 = 0.214$
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./Stat.tex:686: Package inputenc Error: Unicode char ≈ (U+2248)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.686 ...shalb ist $P(B|P os) = 0.9*0.02/0.214 ≈
+                                                   0.084$
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 687.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 687.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 687.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 687.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 687.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 687.
+[8 <./img/qqplots.jpg> <./img/lrschief.png>]
+Underfull \hbox (badness 7649) in paragraph at lines 688--692
+ []\OT1/cmr/bx/n/10 Zentraler Gren-wert-satz[] \OT1/cmr/m/n/10 Ein durch-schnitt-li-cher
+ []
+
+<img/a1.png, id=409, 744.7825pt x 227.85126pt>
+File: img/a1.png Graphic file (type png)
+ <use img/a1.png>
+Package pdftex.def Info: img/a1.png used on input line 693.
+(pdftex.def)             Requested size: 297.90771pt x 91.13889pt.
+
+Overfull \hbox (58.55289pt too wide) in paragraph at lines 693--694
+[][] 
+ []
+
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 696.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 696.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 696.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 696.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 696.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 696.
+[9 <./img/a1.png>]
+
+./Stat.tex:696: LaTeX Error: \begin{multicols} on input line 24 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.696 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 696.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 696.
+(./Stat.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 696.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 696.
+Package rerunfilecheck Info: File `Stat.out' has not changed.
+(rerunfilecheck)             Checksum: 1D01DFBF37CF37E9A6EEADFD6C6078ED;6083.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 696.
+ )
+(\end occurred inside a group at level 3)
+
+### semi simple group (level 3) entered at line 26 (\begingroup)
+### semi simple group (level 2) entered at line 24 (\begingroup)
+### semi simple group (level 1) entered at line 24 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 18226 strings out of 492995
+ 332702 string characters out of 6138756
+ 435366 words of memory out of 5000000
+ 21368 multiletter control sequences out of 15000+600000
+ 9191 words of font info for 34 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,12n,69p,425b,561s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Stat.pdf (9 pages, 598729 bytes).
+PDF statistics:
+ 490 PDF objects out of 1000 (max. 8388607)
+ 449 compressed objects within 5 object streams
+ 104 named destinations out of 1000 (max. 500000)
+ 717 words of extra memory for PDF output out of 10000 (max. 10000000)
+
